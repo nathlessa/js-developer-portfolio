@@ -38,13 +38,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto House Of The Dragon",
+      "url": "https://github.com/nathlessa/house-of-the-dragon",
+      "github": true
+    },
+      {
+      "name": "Projeto Formulário - Teste seus conhecimentos em JS",
+      "url": "https://github.com/nathlessa/nlw-experts",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto Página de Receita ",
+      "url": "https://github.com/nathlessa/projeto-receita",
       "github": true
     }
   ],
